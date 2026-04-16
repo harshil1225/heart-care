@@ -72,10 +72,3 @@ This system is useful for patients, doctors, and administrators to manage medica
 - Helps manage heart care services digitally  
 
 ---
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project:
-
-1. Install XAMPP  
-2. Copy the project folder into:
